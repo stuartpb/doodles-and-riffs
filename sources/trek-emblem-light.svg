@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with sK1/UniConvertor (http://sk1project.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="116.58875"
+   height="187.69249"
+   viewBox="0 0 93.271003 150.15399"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="insignia.svg"
+   style="fill-rule:evenodd">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
+     id="namedview30"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.4044446"
+     inkscape:cx="65.569963"
+     inkscape:cy="81.973487"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#000000;stroke:none"
+     d="M 58.125 0 C 33.91875 30.1175 7.4312499 89.403751 0 187.6875 C 18.78625 162.4075 40.1575 135.54875 67.84375 119.46875 C 75.01875 115.3025 79.01875 113.725 85.34375 119.96875 C 96.4475 130.93375 110.64375 159.29125 116.59375 172.53125 C 109.02875 97.582501 84.025 41.705 58.125 0 z M 56.6875 10.40625 C 72.63375 40.055 92.7275 81.17875 103.09375 131.875 C 98.59375 126.255 88.68375 107.375 78.125 107.375 C 60.84375 107.375 20.9 146.18125 7.125 163.4375 C 14.875 96.320001 31.07875 47.38625 56.6875 10.40625 z "
+     transform="matrix(0.80000001,0,0,0.80000001,0,-1.4957575e-6)"
+     id="path24" />
+  <path
+     style="fill:#000000;stroke:none"
+     d="m 46.518,19.49099 5.305,41.371 11.301,3.63 -10.22,4.758 1.455,11.914 -7.452,-11.113 -7.289,11.113 1.28,-11.914 -10.287,-4.758 11.239,-3.63 4.668,-41.371 z"
+     id="path28"
+     inkscape:connector-curvature="0" />
+</svg>

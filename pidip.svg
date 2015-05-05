@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+ <radialGradient
+   r="10.502"
+   cx="166.4"
+   cy="118.11"
+   gradientUnits="userSpaceOnUse"
+   xlink:href="#id1"
+   id="id2">
+  </radialGradient>
+
+  <radialGradient
+   r="58.738"
+   cx="226.06"
+   cy="142.11"
+   gradientUnits="userSpaceOnUse"
+   id="id1">
+   <stop
+   id="stop3016"
+   offset="0"
+   stop-color="#FEFEFE" />
+
+   <stop
+   id="stop3018"
+   offset="1"
+   stop-color="#171717" />
+
+  </radialGradient>
+
+  <radialGradient
+   r="15.003"
+   cx="95.658"
+   cy="161.61"
+   gradientUnits="userSpaceOnUse"
+   id="id0">
+   <stop
+   id="stop3011"
+   offset="0"
+   stop-color="#ECECEC" />
+
+   <stop
+   id="stop3013"
+   offset="1"
+   stop-color="#FEFEFE" />
+
+  </radialGradient>
+
+  <style
+   id="style3008"
+   type="text/css">
+    .str0 {stroke:#2A2A29;stroke-width:0.0762}
+    .fil0 {fill:none}
+    .fil2 {fill:#FEFEFE}
+    .fil3 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+    .fil4 {fill:url(#id2)}
+  </style>
+
+  
+  
+ 
+   
+   
+   
+   
+   
+   
+  <radialGradient
+   inkscape:collect="always"
+   xlink:href="#id1"
+   id="radialGradient3849"
+   gradientUnits="userSpaceOnUse"
+   cx="166.4"
+   cy="118.11"
+   r="10.502"
+   gradientTransform="matrix(1.1346634,0,0,1.1346634,253.28923,369.95762)" />
+<radialGradient
+   inkscape:collect="always"
+   xlink:href="#id0"
+   id="radialGradient3852"
+   gradientUnits="userSpaceOnUse"
+   cx="95.658"
+   cy="161.61"
+   r="15.003"
+   gradientTransform="matrix(1.1346634,0,0,1.1346634,253.28923,369.95762)" />
+</defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="349.16384"
+     inkscape:cy="498.50427"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:none"
+       id="rect3821"
+       width="378.57144"
+       height="371.42856"
+       x="181.89775"
+       y="343.76974" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:5.32999991999999970px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold;font-stretch:normal;font-variant:normal"
+       id="text2995"
+       sodipodi:linespacing="125%"
+       transform="translate(-0.03070396,0.07440684)"><textPath
+         xlink:href="#path2999"
+         id="textPath3001"><tspan
+   id="tspan2997"
+   style="fill:#ffffff;-inkscape-font-specification:Aharoni Bold;font-family:Aharoni;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">PRODUCTION IS DEVELOPMENT IS</tspan></textPath></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:none"
+       id="path2999"
+       sodipodi:cx="337.39096"
+       sodipodi:cy="562.43817"
+       sodipodi:rx="80.812202"
+       sodipodi:ry="80.812202"
+       d="m 418.20316,562.43817 a 80.812202,80.812202 0 1 1 -161.6244,0 80.812202,80.812202 0 1 1 161.6244,0 z"
+       transform="matrix(0,-1.3224103,1.3224103,0,-365.65537,978.4218)" />
+  </g>
+</svg>
